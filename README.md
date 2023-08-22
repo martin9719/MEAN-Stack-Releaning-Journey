@@ -1,3 +1,7 @@
+# Relearing Journey
+Hello everyone, I am going over MEAN Stack again after I have seen in it in one of my courses. I never really got a good graps on it so that is why I am going step by step and uploading everything I do to here.
+Starting of with Angular front end.
+
 # FirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
