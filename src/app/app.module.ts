@@ -23,6 +23,7 @@ import { CommonModule } from '@angular/common';
     PostListComponent,
   ],
   imports: [
+    CommonModule,
     BrowserModule,
     AppRoutingModule,
     FormsModule,
@@ -31,7 +32,6 @@ import { CommonModule } from '@angular/common';
     MatButtonModule,
     MatToolbarModule,
     MatExpansionModule,
-    CommonModule,
     BrowserAnimationsModule,
   ],
   providers: [],
